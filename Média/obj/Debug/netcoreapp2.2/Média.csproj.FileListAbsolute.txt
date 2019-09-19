@@ -1,0 +1,11 @@
+C:\Users\49826159859\projetos\exercicios\Média\bin\Debug\netcoreapp2.2\Média.deps.json
+C:\Users\49826159859\projetos\exercicios\Média\bin\Debug\netcoreapp2.2\Média.runtimeconfig.json
+C:\Users\49826159859\projetos\exercicios\Média\bin\Debug\netcoreapp2.2\Média.runtimeconfig.dev.json
+C:\Users\49826159859\projetos\exercicios\Média\bin\Debug\netcoreapp2.2\Média.dll
+C:\Users\49826159859\projetos\exercicios\Média\bin\Debug\netcoreapp2.2\Média.pdb
+C:\Users\49826159859\projetos\exercicios\Média\obj\Debug\netcoreapp2.2\Média.csprojAssemblyReference.cache
+C:\Users\49826159859\projetos\exercicios\Média\obj\Debug\netcoreapp2.2\Média.csproj.CoreCompileInputs.cache
+C:\Users\49826159859\projetos\exercicios\Média\obj\Debug\netcoreapp2.2\Média.AssemblyInfoInputs.cache
+C:\Users\49826159859\projetos\exercicios\Média\obj\Debug\netcoreapp2.2\Média.AssemblyInfo.cs
+C:\Users\49826159859\projetos\exercicios\Média\obj\Debug\netcoreapp2.2\Média.dll
+C:\Users\49826159859\projetos\exercicios\Média\obj\Debug\netcoreapp2.2\Média.pdb
