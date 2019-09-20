@@ -1,0 +1,11 @@
+C:\Users\49826159859\projetos\exercicios\imparserio\obj\Debug\netcoreapp2.2\imparserio.csprojAssemblyReference.cache
+C:\Users\49826159859\projetos\exercicios\imparserio\obj\Debug\netcoreapp2.2\imparserio.csproj.CoreCompileInputs.cache
+C:\Users\49826159859\projetos\exercicios\imparserio\obj\Debug\netcoreapp2.2\imparserio.AssemblyInfoInputs.cache
+C:\Users\49826159859\projetos\exercicios\imparserio\obj\Debug\netcoreapp2.2\imparserio.AssemblyInfo.cs
+C:\Users\49826159859\projetos\exercicios\imparserio\bin\Debug\netcoreapp2.2\imparserio.deps.json
+C:\Users\49826159859\projetos\exercicios\imparserio\bin\Debug\netcoreapp2.2\imparserio.runtimeconfig.json
+C:\Users\49826159859\projetos\exercicios\imparserio\bin\Debug\netcoreapp2.2\imparserio.runtimeconfig.dev.json
+C:\Users\49826159859\projetos\exercicios\imparserio\bin\Debug\netcoreapp2.2\imparserio.dll
+C:\Users\49826159859\projetos\exercicios\imparserio\bin\Debug\netcoreapp2.2\imparserio.pdb
+C:\Users\49826159859\projetos\exercicios\imparserio\obj\Debug\netcoreapp2.2\imparserio.dll
+C:\Users\49826159859\projetos\exercicios\imparserio\obj\Debug\netcoreapp2.2\imparserio.pdb
