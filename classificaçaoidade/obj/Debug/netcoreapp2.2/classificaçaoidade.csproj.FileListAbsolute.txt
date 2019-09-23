@@ -1,0 +1,11 @@
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\bin\Debug\netcoreapp2.2\classificaçaoidade.deps.json
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\bin\Debug\netcoreapp2.2\classificaçaoidade.runtimeconfig.json
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\bin\Debug\netcoreapp2.2\classificaçaoidade.runtimeconfig.dev.json
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\bin\Debug\netcoreapp2.2\classificaçaoidade.dll
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\bin\Debug\netcoreapp2.2\classificaçaoidade.pdb
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\obj\Debug\netcoreapp2.2\classificaçaoidade.csprojAssemblyReference.cache
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\obj\Debug\netcoreapp2.2\classificaçaoidade.csproj.CoreCompileInputs.cache
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\obj\Debug\netcoreapp2.2\classificaçaoidade.AssemblyInfoInputs.cache
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\obj\Debug\netcoreapp2.2\classificaçaoidade.AssemblyInfo.cs
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\obj\Debug\netcoreapp2.2\classificaçaoidade.dll
+C:\Users\49826159859\projetos\exercicios\classificaçaoidade\obj\Debug\netcoreapp2.2\classificaçaoidade.pdb
